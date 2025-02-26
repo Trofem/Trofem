@@ -1,6 +1,6 @@
 - ✨ Hi, I’m @Trofem
-- ✨ I’m interested in creating in Unity
-- ✨ I’m currently learning python, sometimes create games!
+- ✨ I’m interested in games/related projects
+- ✨ I’m currently trying to make some commits and learn all this stuff
 
 <!---
 Trofem/Trofem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
